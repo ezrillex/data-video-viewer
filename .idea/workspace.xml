@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="128db027-f9d1-4fcf-acd5-4b7fbcc9ce0d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/routes/+layout.js" afterDir="false" />
+    <list default="true" id="128db027-f9d1-4fcf-acd5-4b7fbcc9ce0d" name="Changes" comment="fix: prerender all">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +23,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "ezrillex"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/ezrillex/data-video-viewer.git",
+    "accountId": "9959a9d5-d3b7-4d0b-a6f6-651df42b7375"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
 }</component>
@@ -73,11 +86,24 @@
       <option name="presentableId" value="Default" />
       <updated>1759552010289</updated>
       <workItem from="1759552011293" duration="229000" />
-      <workItem from="1759552282406" duration="6673000" />
+      <workItem from="1759552282406" duration="7110000" />
     </task>
+    <task id="LOCAL-00001" summary="fix: prerender all">
+      <option name="closed" value="true" />
+      <created>1759559758704</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1759559758704</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="fix: prerender all" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix: prerender all" />
   </component>
 </project>
